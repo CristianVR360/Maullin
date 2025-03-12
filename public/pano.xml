@@ -1,179 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node3" apprev="17873" appversion="6.1.2">
+<tour appversion="6.1.2" start="node3" apprev="17873">
   <panorama id="node3">
-    <input levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" overlap="1" width="2560" height="2560">
-      <level predecode="0" preload="0" width="2560" height="2560"/>
-      <level predecode="0" preload="0" width="1280" height="1280"/>
-      <level predecode="0" preload="0" width="640" height="640"/>
-      <level predecode="1" preload="1" width="320" height="320"/>
-      <preview color="0x808080" strip="1"/>
+    <input leveltilesize="510" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2560" height="2560" levelingpitch="0" overlap="1" levelbiashidpi="1.000">
+      <level width="2560" height="2560" preload="0" predecode="0"/>
+      <level width="1280" height="1280" preload="0" predecode="0"/>
+      <level width="640" height="640" preload="0" predecode="0"/>
+      <level width="320" height="320" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="169.312">
-      <start pan="75.79" tilt="-90" projection="4" fov="98.7"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270"/>
+      <start tilt="-90" pan="75.79" projection="4" fov="98.7"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
     </view>
-    <userdata datetime="01-03-2025 18:00" nodeid="node3" info="" comment="" tags="panoramicas" latitude="-41.391792" customnodeid="" title="Vista Aérea" author="" source="" copyright="" description="" longitude="-73.196996"/>
+    <userdata nodeid="node3" comment="" customnodeid="" latitude="-41.391792" description="" source="" datetime="01-03-2025 18:00" author="" copyright="" info="" tags="panoramicas" title="Vista Aérea" longitude="-73.196996"/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundcolor="0xffffff" wordwrap="1" border="1" bordercolor="0x000000" backgroundalpha="1" borderradius="1" textcolor="0x000000" width="180" background="1" textalpha="1" enabled="1" height="20" borderalpha="1"/>
-      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
-      <hotspot pan="-46.99" url="" tilt="-30.72" skinid="ht_tag_acceso" title="Acceso" target="_blank" id="Point01" description=""/>
-      <hotspot pan="-47.33" url="" tilt="-34.05" skinid="ht_disponible" title="1" target="_blank" id="1" description=""/>
-      <hotspot pan="-45.47" url="" tilt="-38.52" skinid="ht_disponible" title="22" target="_blank" id="22" description=""/>
-      <hotspot pan="-44.59" url="" tilt="-46.14" skinid="ht_disponible" title="23" target="_blank" id="23" description=""/>
-      <hotspot pan="-54.25" url="" tilt="-44.42" skinid="ht_disponible" title="31" target="_blank" id="31" description=""/>
-      <hotspot pan="-47.2" url="" tilt="-51.71" skinid="ht_disponible" title="24" target="_blank" id="24" description=""/>
-      <hotspot pan="-58.49" url="" tilt="-51.95" skinid="ht_disponible" title="30" target="_blank" id="30" description=""/>
-      <hotspot pan="-73.42" url="" tilt="-49.98" skinid="ht_disponible" title="32" target="_blank" id="32" description=""/>
-      <hotspot pan="-47.16" url="" tilt="-63.19" skinid="ht_disponible" title="25" target="_blank" id="25" description=""/>
-      <hotspot pan="-63.16" url="" tilt="-61.42" skinid="ht_disponible" title="29" target="_blank" id="29" description=""/>
-      <hotspot pan="-82.24" url="" tilt="-53.89" skinid="ht_disponible" title="33" target="_blank" id="33" description=""/>
-      <hotspot pan="-92.26" url="" tilt="-56.66" skinid="ht_disponible" title="34" target="_blank" id="34" description=""/>
-      <hotspot pan="-106.41" url="" tilt="-57.43" skinid="ht_disponible" title="35" target="_blank" id="35" description=""/>
-      <hotspot pan="-79.22" url="" tilt="-69.47" skinid="ht_disponible" title="28" target="_blank" id="28" description=""/>
-      <hotspot pan="-55.19" url="" tilt="-76.79" skinid="ht_disponible" title="26" target="_blank" id="26" description=""/>
-      <hotspot pan="-113.76" url="" tilt="-69.94" skinid="ht_disponible" title="27" target="_blank" id="27" description=""/>
-      <hotspot pan="-126.28" url="" tilt="-50.73" skinid="ht_disponible" title="36" target="_blank" id="36" description=""/>
-      <hotspot pan="-136.74" url="" tilt="-63.55" skinid="ht_disponible" title="37" target="_blank" id="37" description=""/>
-      <hotspot pan="-162.41" url="" tilt="-73.96" skinid="ht_disponible" title="52" target="_blank" id="52" description=""/>
-      <hotspot pan="-205.31" url="" tilt="-78.65" skinid="ht_disponible" title="54" target="_blank" id="54" description=""/>
-      <hotspot pan="-205.7" url="" tilt="-69.08" skinid="ht_disponible" title="55" target="_blank" id="55" description=""/>
-      <hotspot pan="-172.69" url="" tilt="-63.56" skinid="ht_disponible" title="51" target="_blank" id="51" description=""/>
-      <hotspot pan="-212.47" url="" tilt="-59.21" skinid="ht_disponible" title="56" target="_blank" id="56" description=""/>
-      <hotspot pan="-194.93" url="" tilt="-56.85" skinid="ht_disponible" title="49" target="_blank" id="49" description=""/>
-      <hotspot pan="-184.7" url="" tilt="-54.76" skinid="ht_disponible" title="50" target="_blank" id="50" description=""/>
-      <hotspot pan="-149.36" url="" tilt="-58.13" skinid="ht_disponible" title="39" target="_blank" id="39" description=""/>
-      <hotspot pan="-138.74" url="" tilt="-49.43" skinid="ht_disponible" title="38" target="_blank" id="38" description=""/>
-      <hotspot pan="-146.38" url="" tilt="-44.25" skinid="ht_disponible" title="40" target="_blank" id="40" description=""/>
-      <hotspot pan="-158.04" url="" tilt="-53.49" skinid="ht_disponible" title="41" target="_blank" id="41" description=""/>
-      <hotspot pan="-166.67" url="" tilt="-49.42" skinid="ht_disponible" title="43" target="_blank" id="43" description=""/>
-      <hotspot pan="-154.43" url="" tilt="-40.67" skinid="ht_disponible" title="42" target="_blank" id="42" description=""/>
-      <hotspot pan="-160.48" url="" tilt="-38.92" skinid="ht_disponible" title="44" target="_blank" id="44" description=""/>
-      <hotspot pan="-171.48" url="" tilt="-43.39" skinid="ht_disponible" title="45" target="_blank" id="45" description=""/>
-      <hotspot pan="-186.49" url="" tilt="-44.23" skinid="ht_disponible" title="46" target="_blank" id="46" description=""/>
-      <hotspot pan="-201.23" url="" tilt="-45.99" skinid="ht_disponible" title="47" target="_blank" id="47" description=""/>
-      <hotspot pan="-208" url="" tilt="-49.49" skinid="ht_disponible" title="48" target="_blank" id="48" description=""/>
-      <hotspot pan="-235.83" url="" tilt="-62.91" skinid="ht_disponible" title="57" target="_blank" id="57" description=""/>
-      <hotspot pan="-278.29" url="" tilt="-68.37" skinid="ht_disponible" title="12" target="_blank" id="12" description=""/>
-      <hotspot pan="-259.65" url="" tilt="-76.31" skinid="ht_disponible" title="13" target="_blank" id="13" description=""/>
-      <hotspot pan="-313.62" url="" tilt="-79.27" skinid="ht_disponible" title="14" target="_blank" id="14" description=""/>
-      <hotspot pan="-315.8" url="" tilt="-67.2" skinid="ht_disponible" title="11" target="_blank" id="11" description=""/>
-      <hotspot pan="-337.39" url="" tilt="-63.1" skinid="ht_disponible" title="10" target="_blank" id="10" description=""/>
-      <hotspot pan="0.55" url="" tilt="-74.2" skinid="ht_disponible" title="15" target="_blank" id="15" description=""/>
-      <hotspot pan="-12.39" url="" tilt="-66.7" skinid="ht_disponible" title="16" target="_blank" id="16" description=""/>
-      <hotspot pan="-345.67" url="" tilt="-57.76" skinid="ht_disponible" title="9" target="_blank" id="9" description=""/>
-      <hotspot pan="-18.68" url="" tilt="-62.11" skinid="ht_disponible" title="17" target="_blank" id="17" description=""/>
-      <hotspot pan="-353.89" url="" tilt="-55.62" skinid="ht_disponible" title="8" target="_blank" id="8" description=""/>
-      <hotspot pan="-23.42" url="" tilt="-55.1" skinid="ht_disponible" title="18" target="_blank" id="18" description=""/>
-      <hotspot pan="-3.56" url="" tilt="-51.42" skinid="ht_disponible" title="7" target="_blank" id="7" description=""/>
-      <hotspot pan="-29.67" url="" tilt="-49.22" skinid="ht_disponible" title="19" target="_blank" id="19" description=""/>
-      <hotspot pan="-14.15" url="" tilt="-46.91" skinid="ht_disponible" title="6" target="_blank" id="6" description=""/>
-      <hotspot pan="-33.05" url="" tilt="-44.18" skinid="ht_disponible" title="20" target="_blank" id="20" description=""/>
-      <hotspot pan="-20.67" url="" tilt="-43.85" skinid="ht_disponible" title="5" target="_blank" id="5" description=""/>
-      <hotspot pan="-23.43" url="" tilt="-40.41" skinid="ht_disponible" title="4" target="_blank" id="4" description=""/>
-      <hotspot pan="-35.53" url="" tilt="-40.18" skinid="ht_disponible" title="21" target="_blank" id="21" description=""/>
-      <hotspot pan="-34.53" url="" tilt="-36.1" skinid="ht_disponible" title="2" target="_blank" id="2" description=""/>
-      <hotspot pan="-26.96" url="" tilt="-37.1" skinid="ht_disponible" title="3" target="_blank" id="3" description=""/>
-      <hotspot pan="-141.86" url="" tilt="-84.92" skinid="ht_disponible" title="53" target="_blank" id="53" description=""/>
-      <hotspot pan="-268.62" url="" tilt="-61.47" skinid="ht_tag_georeferencia_mediumRight_Blue" title="Río Maullín" target="_blank" id="Point02" description=""/>
-      <hotspot pan="-298.79" url="images/puerto-montt.jpg" tilt="-1.26" skinid="ht_tag_georeferencia_mediumRight" title="Puerto Montt" target="" id="Point01" description="41 min | 25,3 km"/>
-      <hotspot pan="-251.08" url="images/puerto-varas.jpg" tilt="-0.23" skinid="ht_tag_georeferencia_smallRight" title="Puerto Varas" target="" id="Point01" description="29 min | 27,6 km"/>
-      <hotspot pan="-237.57" url="images/frutillar.jpg" tilt="-0.48" skinid="ht_tag_georeferencia_largeRight" title="Frutillar " target="" id="Point01" description="38 min | 45,5 km"/>
-      <hotspot pan="-243.92" url="images/lago-Llanquihue.jpg" tilt="-0.28" skinid="ht_tag_georeferencia_mediumRight" title="Lago Llanquihue" target="" id="Point01" description=""/>
-      <hotspot pan="-199.32" url="images/Osorno.jpg" tilt="0.19" skinid="ht_tag_georeferencia_mediumLeft" title="Osorno" target="" id="Point01" description="1 h 20 min | 108 km"/>
-      <hotspot pan="-207.04" url="images/Aeropuerto-Cañal-Bajo.jpg" tilt="-0.27" skinid="ht_tag_georeferencia_largeLeft" title="Aeropuerto Cañal Bajo" target="" id="Point01" description="1 h 18 min | 110 km"/>
-      <hotspot pan="-229.44" url="images/puerto-octay.jpg" tilt="-0.06" skinid="ht_tag_georeferencia_mediumLeft" title="Puerto Octay" target="" id="Point01" description="1 h | 68,8 km"/>
-      <hotspot pan="-344.43" url="" tilt="-29.01" skinid="ht_tag_georeferencia_smallRightYellow" title="Ruta V-60" target="_blank" id="Point01" description=""/>
-      <hotspot pan="-97.12" url="" tilt="-13.3" skinid="ht_tag_georeferencia_smallRightYellow" title="Ruta V-56" target="_blank" id="Point04" description=""/>
-      <hotspot pan="-36.1" distance="199.075" url="{node4}" tilt="-60.81" skinid="ht_nodo_roundedB" title="Visitar" target="$fwd" id="Point01" description=""/>
-      <hotspot pan="-347.76" distance="279.256" url="{node5}" tilt="-51.31" skinid="ht_nodo_roundedB" title="Visitar" target="$fwd" id="Point01" description=""/>
-      <hotspot pan="-136.94" distance="192.007" url="{node6}" tilt="-69.42" skinid="ht_nodo_roundedB" title="Visitar" target="$fwd" id="Point01" description=""/>
+      <label textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" height="20" border="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-30.72" description="" pan="-46.99" target="_blank" title="Acceso" skinid="ht_tag_acceso" id="Point01" url=""/>
+      <hotspot tilt="-34.05" description="" pan="-47.33" target="_blank" title="1" skinid="ht_disponible" id="1" url=""/>
+      <hotspot tilt="-38.52" description="" pan="-45.47" target="_blank" title="22" skinid="ht_disponible" id="22" url=""/>
+      <hotspot tilt="-46.14" description="" pan="-44.59" target="_blank" title="23" skinid="ht_disponible" id="23" url=""/>
+      <hotspot tilt="-44.42" description="" pan="-54.25" target="_blank" title="31" skinid="ht_disponible" id="31" url=""/>
+      <hotspot tilt="-51.71" description="" pan="-47.2" target="_blank" title="24" skinid="ht_disponible" id="24" url=""/>
+      <hotspot tilt="-51.95" description="" pan="-58.49" target="_blank" title="30" skinid="ht_disponible" id="30" url=""/>
+      <hotspot tilt="-49.98" description="" pan="-73.42" target="_blank" title="32" skinid="ht_disponible" id="32" url=""/>
+      <hotspot tilt="-63.19" description="" pan="-47.16" target="_blank" title="25" skinid="ht_disponible" id="25" url=""/>
+      <hotspot tilt="-61.42" description="" pan="-63.16" target="_blank" title="29" skinid="ht_disponible" id="29" url=""/>
+      <hotspot tilt="-53.89" description="" pan="-82.24" target="_blank" title="33" skinid="ht_disponible" id="33" url=""/>
+      <hotspot tilt="-56.66" description="" pan="-92.26" target="_blank" title="34" skinid="ht_disponible" id="34" url=""/>
+      <hotspot tilt="-57.43" description="" pan="-106.41" target="_blank" title="35" skinid="ht_disponible" id="35" url=""/>
+      <hotspot tilt="-69.47" description="" pan="-79.22" target="_blank" title="28" skinid="ht_disponible" id="28" url=""/>
+      <hotspot tilt="-76.79" description="" pan="-55.19" target="_blank" title="26" skinid="ht_disponible" id="26" url=""/>
+      <hotspot tilt="-69.94" description="" pan="-113.76" target="_blank" title="27" skinid="ht_disponible" id="27" url=""/>
+      <hotspot tilt="-50.73" description="" pan="-126.28" target="_blank" title="36" skinid="ht_disponible" id="36" url=""/>
+      <hotspot tilt="-63.55" description="" pan="-136.74" target="_blank" title="37" skinid="ht_disponible" id="37" url=""/>
+      <hotspot tilt="-73.96" description="" pan="-162.41" target="_blank" title="52" skinid="ht_disponible" id="52" url=""/>
+      <hotspot tilt="-78.65" description="" pan="-205.31" target="_blank" title="54" skinid="ht_disponible" id="54" url=""/>
+      <hotspot tilt="-69.08" description="" pan="-205.7" target="_blank" title="55" skinid="ht_disponible" id="55" url=""/>
+      <hotspot tilt="-63.56" description="" pan="-172.69" target="_blank" title="51" skinid="ht_disponible" id="51" url=""/>
+      <hotspot tilt="-59.21" description="" pan="-212.47" target="_blank" title="56" skinid="ht_disponible" id="56" url=""/>
+      <hotspot tilt="-56.85" description="" pan="-194.93" target="_blank" title="49" skinid="ht_disponible" id="49" url=""/>
+      <hotspot tilt="-54.76" description="" pan="-184.7" target="_blank" title="50" skinid="ht_disponible" id="50" url=""/>
+      <hotspot tilt="-58.13" description="" pan="-149.36" target="_blank" title="39" skinid="ht_disponible" id="39" url=""/>
+      <hotspot tilt="-49.43" description="" pan="-138.74" target="_blank" title="38" skinid="ht_disponible" id="38" url=""/>
+      <hotspot tilt="-44.25" description="" pan="-146.38" target="_blank" title="40" skinid="ht_disponible" id="40" url=""/>
+      <hotspot tilt="-53.49" description="" pan="-158.04" target="_blank" title="41" skinid="ht_disponible" id="41" url=""/>
+      <hotspot tilt="-49.42" description="" pan="-166.67" target="_blank" title="43" skinid="ht_disponible" id="43" url=""/>
+      <hotspot tilt="-40.67" description="" pan="-154.43" target="_blank" title="42" skinid="ht_disponible" id="42" url=""/>
+      <hotspot tilt="-38.92" description="" pan="-160.48" target="_blank" title="44" skinid="ht_disponible" id="44" url=""/>
+      <hotspot tilt="-43.39" description="" pan="-171.48" target="_blank" title="45" skinid="ht_disponible" id="45" url=""/>
+      <hotspot tilt="-44.23" description="" pan="-186.49" target="_blank" title="46" skinid="ht_disponible" id="46" url=""/>
+      <hotspot tilt="-45.99" description="" pan="-201.23" target="_blank" title="47" skinid="ht_disponible" id="47" url=""/>
+      <hotspot tilt="-49.49" description="" pan="-208" target="_blank" title="48" skinid="ht_disponible" id="48" url=""/>
+      <hotspot tilt="-62.91" description="" pan="-235.83" target="_blank" title="57" skinid="ht_disponible" id="57" url=""/>
+      <hotspot tilt="-68.37" description="" pan="-278.29" target="_blank" title="12" skinid="ht_disponible" id="12" url=""/>
+      <hotspot tilt="-76.31" description="" pan="-259.65" target="_blank" title="13" skinid="ht_disponible" id="13" url=""/>
+      <hotspot tilt="-79.27" description="" pan="-313.62" target="_blank" title="14" skinid="ht_disponible" id="14" url=""/>
+      <hotspot tilt="-67.2" description="" pan="-315.8" target="_blank" title="11" skinid="ht_disponible" id="11" url=""/>
+      <hotspot tilt="-63.1" description="" pan="-337.39" target="_blank" title="10" skinid="ht_disponible" id="10" url=""/>
+      <hotspot tilt="-74.2" description="" pan="0.55" target="_blank" title="15" skinid="ht_disponible" id="15" url=""/>
+      <hotspot tilt="-66.7" description="" pan="-12.39" target="_blank" title="16" skinid="ht_disponible" id="16" url=""/>
+      <hotspot tilt="-57.76" description="" pan="-345.67" target="_blank" title="9" skinid="ht_disponible" id="9" url=""/>
+      <hotspot tilt="-62.11" description="" pan="-18.68" target="_blank" title="17" skinid="ht_disponible" id="17" url=""/>
+      <hotspot tilt="-55.62" description="" pan="-353.89" target="_blank" title="8" skinid="ht_disponible" id="8" url=""/>
+      <hotspot tilt="-55.1" description="" pan="-23.42" target="_blank" title="18" skinid="ht_disponible" id="18" url=""/>
+      <hotspot tilt="-51.42" description="" pan="-3.56" target="_blank" title="7" skinid="ht_disponible" id="7" url=""/>
+      <hotspot tilt="-49.22" description="" pan="-29.67" target="_blank" title="19" skinid="ht_disponible" id="19" url=""/>
+      <hotspot tilt="-46.91" description="" pan="-14.15" target="_blank" title="6" skinid="ht_disponible" id="6" url=""/>
+      <hotspot tilt="-44.18" description="" pan="-33.05" target="_blank" title="20" skinid="ht_disponible" id="20" url=""/>
+      <hotspot tilt="-43.85" description="" pan="-20.67" target="_blank" title="5" skinid="ht_disponible" id="5" url=""/>
+      <hotspot tilt="-40.41" description="" pan="-23.43" target="_blank" title="4" skinid="ht_disponible" id="4" url=""/>
+      <hotspot tilt="-40.18" description="" pan="-35.53" target="_blank" title="21" skinid="ht_disponible" id="21" url=""/>
+      <hotspot tilt="-36.1" description="" pan="-34.53" target="_blank" title="2" skinid="ht_disponible" id="2" url=""/>
+      <hotspot tilt="-37.1" description="" pan="-26.96" target="_blank" title="3" skinid="ht_disponible" id="3" url=""/>
+      <hotspot tilt="-84.92" description="" pan="-141.86" target="_blank" title="53" skinid="ht_disponible" id="53" url=""/>
+      <hotspot tilt="-61.47" description="" pan="-268.62" target="_blank" title="Río Maullín" skinid="ht_tag_georeferencia_mediumRight_Blue" id="Point02" url=""/>
+      <hotspot tilt="-1.26" description="41 min | 25,3 km" pan="-298.79" target="" title="Puerto Montt" skinid="ht_tag_georeferencia_mediumRight" id="Point01" url="images/puerto-montt.jpg"/>
+      <hotspot tilt="-0.41" description="29 min | 27,6 km" pan="-255.96" target="" title="Puerto Varas" skinid="ht_tag_georeferencia_smallRight" id="Point01" url="images/puerto-varas.jpg"/>
+      <hotspot tilt="-0.48" description="38 min | 45,5 km" pan="-237.57" target="" title="Frutillar " skinid="ht_tag_georeferencia_mediumLeft" id="Point01" url="images/frutillar.jpg"/>
+      <hotspot tilt="-0.28" description="" pan="-243.92" target="" title="Lago Llanquihue" skinid="ht_tag_georeferencia_largeLeft" id="Point01" url="images/lago-Llanquihue.jpg"/>
+      <hotspot tilt="0.19" description="1 h 20 min | 108 km" pan="-199.32" target="" title="Osorno" skinid="ht_tag_georeferencia_mediumLeft" id="Point01" url="images/Osorno.jpg"/>
+      <hotspot tilt="-0.27" description="1 h 18 min | 110 km" pan="-207.04" target="" title="Aeropuerto Cañal Bajo" skinid="ht_tag_georeferencia_largeLeft" id="Point01" url="images/Aeropuerto-Cañal-Bajo.jpg"/>
+      <hotspot tilt="-0.06" description="1 h | 68,8 km" pan="-229.44" target="" title="Puerto Octay" skinid="ht_tag_georeferencia_smallLeft" id="Point01" url="images/puerto-octay.jpg"/>
+      <hotspot tilt="-29.01" description="" pan="-344.43" target="_blank" title="Ruta V-60" skinid="ht_tag_georeferencia_smallRightYellow" id="Point01" url=""/>
+      <hotspot tilt="-13.3" description="" pan="-97.12" target="_blank" title="Ruta V-56" skinid="ht_tag_georeferencia_smallRightYellow" id="Point04" url=""/>
+      <hotspot tilt="-60.81" description="" distance="199.075" pan="-36.1" target="$fwd" title="Visitar" skinid="ht_nodo_roundedB" id="Point01" url="{node4}"/>
+      <hotspot tilt="-51.31" description="" distance="279.256" pan="-347.76" target="$fwd" title="Visitar" skinid="ht_nodo_roundedB" id="Point01" url="{node5}"/>
+      <hotspot tilt="-69.42" description="" distance="192.007" pan="-136.94" target="$fwd" title="Visitar" skinid="ht_nodo_roundedB" id="Point01" url="{node6}"/>
+      <hotspot tilt="-7.17" description="12 min | 10,7 km" pan="-308.56" target="" title="Aeropuerto el Tepual" skinid="ht_tag_georeferencia_smallRight" id="Point01" url="images/aeropuerto.jpg"/>
+      <hotspot tilt="-0.51" description="16 min | 19 km" pan="-250.6" target="" title="Nueva Braunau" skinid="ht_tag_georeferencia_mediumRight" id="Point01" url="images/Nueva-Braunau.jpg"/>
+      <hotspot tilt="-0.56" description="20 min | 23,2 km" pan="-94.68" target="" title="Los Muermos" skinid="ht_tag_georeferencia_mediumRight" id="Point01" url="images/los-muermos.jpg"/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" zoomout="0" zoomoutpause="1" blendcolor="0x000000" blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomin="0" enabled="1"/>
-    <autorotate speed="0.020" nodefilter="" noderandom="1" delay="1.00" returntohorizon="0.000" startloaded="0" useanimation="0" enabled="1" nodedelay="0.00"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextprojections="0" simulatemass="1" rubberband="0" invertwheel="0" contextfullscreen="1" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" zoomin="0"/>
+    <autorotate nodedelay="0.00" nodefilter="" speed="0.020" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" delay="1.00" noderandom="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" hideabout="0" lockedwheel="0" contextfullscreen="1" lockedmouse="0" invertwheel="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" speedwheel="1" rubberband="0" dblclickfullscreen="0"/>
   </panorama>
   <panorama id="node4">
-    <input levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" overlap="1" width="2560" height="2560">
-      <level predecode="0" preload="0" width="2560" height="2560"/>
-      <level predecode="0" preload="0" width="1280" height="1280"/>
-      <level predecode="0" preload="0" width="640" height="640"/>
-      <level predecode="1" preload="1" width="320" height="320"/>
-      <preview color="0x808080" strip="1"/>
+    <input leveltilesize="510" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2560" height="2560" levelingpitch="0" overlap="1" levelbiashidpi="1.000">
+      <level width="2560" height="2560" preload="0" predecode="0"/>
+      <level width="1280" height="1280" preload="0" predecode="0"/>
+      <level width="640" height="640" preload="0" predecode="0"/>
+      <level width="320" height="320" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="36.7207">
-      <start pan="0" tilt="0" projection="4" fov="70"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270"/>
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
     </view>
-    <userdata datetime="01-03-2025 18:48" nodeid="node4" info="" comment="" tags="N°8_4" latitude="-41.393277" customnodeid="" title="Parcela 17" author="" source="" copyright="" description="" longitude="-73.198329"/>
+    <userdata nodeid="node4" comment="" customnodeid="" latitude="-41.393277" description="" source="" datetime="01-03-2025 18:48" author="" copyright="" info="" tags="N°8_4" title="Parcela 17" longitude="-73.198329"/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundcolor="0xffffff" wordwrap="1" border="1" bordercolor="0x000000" backgroundalpha="1" borderradius="1" textcolor="0x000000" width="180" background="1" textalpha="1" enabled="1" height="20" borderalpha="1"/>
-      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
-      <hotspot pan="-37.93" distance="225.398" url="{node5}" tilt="-1.03" skinid="ht_nodo_roundedB" title="Visitar" target="$fwd" id="Point01" description=""/>
+      <label textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" height="20" border="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-1.03" description="" distance="225.398" pan="-37.93" target="$fwd" title="Visitar" skinid="ht_nodo_roundedB" id="Point01" url="{node5}"/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" zoomout="0" zoomoutpause="1" blendcolor="0x000000" blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomin="0" enabled="1"/>
-    <autorotate speed="0.020" nodefilter="" noderandom="1" delay="1.00" returntohorizon="0.000" startloaded="0" useanimation="0" enabled="1" nodedelay="0.00"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextprojections="0" simulatemass="1" rubberband="0" invertwheel="0" contextfullscreen="1" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" zoomin="0"/>
+    <autorotate nodedelay="0.00" nodefilter="" speed="0.020" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" delay="1.00" noderandom="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" hideabout="0" lockedwheel="0" contextfullscreen="1" lockedmouse="0" invertwheel="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" speedwheel="1" rubberband="0" dblclickfullscreen="0"/>
   </panorama>
   <panorama id="node5">
-    <input levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" overlap="1" width="2560" height="2560">
-      <level predecode="0" preload="0" width="2560" height="2560"/>
-      <level predecode="0" preload="0" width="1280" height="1280"/>
-      <level predecode="0" preload="0" width="640" height="640"/>
-      <level predecode="1" preload="1" width="320" height="320"/>
-      <preview color="0x808080" strip="1"/>
+    <input leveltilesize="510" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2560" height="2560" levelingpitch="0" overlap="1" levelbiashidpi="1.000">
+      <level width="2560" height="2560" preload="0" predecode="0"/>
+      <level width="1280" height="1280" preload="0" predecode="0"/>
+      <level width="640" height="640" preload="0" predecode="0"/>
+      <level width="320" height="320" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="90.6082">
-      <start pan="0" tilt="0" projection="4" fov="70"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270"/>
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
     </view>
-    <userdata datetime="01-03-2025 18:45" nodeid="node5" info="" comment="" tags="N°8_3" latitude="-41.394165" customnodeid="" title="Parcela 8" author="" source="" copyright="" description="" longitude="-73.195900"/>
+    <userdata nodeid="node5" comment="" customnodeid="" latitude="-41.394165" description="" source="" datetime="01-03-2025 18:45" author="" copyright="" info="" tags="N°8_3" title="Parcela 8" longitude="-73.195900"/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundcolor="0xffffff" wordwrap="1" border="1" bordercolor="0x000000" backgroundalpha="1" borderradius="1" textcolor="0x000000" width="180" background="1" textalpha="1" enabled="1" height="20" borderalpha="1"/>
-      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
-      <hotspot pan="-173.61" distance="225.398" url="{node4}" tilt="-3.68" skinid="ht_nodo_roundedB" title="Visitar" target="$fwd" id="Point01" description=""/>
+      <label textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" height="20" border="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-3.68" description="" distance="225.398" pan="-173.61" target="$fwd" title="Visitar" skinid="ht_nodo_roundedB" id="Point01" url="{node4}"/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" zoomout="0" zoomoutpause="1" blendcolor="0x000000" blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomin="0" enabled="1"/>
-    <autorotate speed="0.020" nodefilter="" noderandom="1" delay="1.00" returntohorizon="0.000" startloaded="0" useanimation="0" enabled="1" nodedelay="0.00"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextprojections="0" simulatemass="1" rubberband="0" invertwheel="0" contextfullscreen="1" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" zoomin="0"/>
+    <autorotate nodedelay="0.00" nodefilter="" speed="0.020" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" delay="1.00" noderandom="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" hideabout="0" lockedwheel="0" contextfullscreen="1" lockedmouse="0" invertwheel="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" speedwheel="1" rubberband="0" dblclickfullscreen="0"/>
   </panorama>
   <panorama id="node6">
-    <input levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" overlap="1" width="2560" height="2560">
-      <level predecode="0" preload="0" width="2560" height="2560"/>
-      <level predecode="0" preload="0" width="1280" height="1280"/>
-      <level predecode="0" preload="0" width="640" height="640"/>
-      <level predecode="1" preload="1" width="320" height="320"/>
-      <preview color="0x808080" strip="1"/>
+    <input leveltilesize="510" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2560" height="2560" levelingpitch="0" overlap="1" levelbiashidpi="1.000">
+      <level width="2560" height="2560" preload="0" predecode="0"/>
+      <level width="1280" height="1280" preload="0" predecode="0"/>
+      <level width="640" height="640" preload="0" predecode="0"/>
+      <level width="320" height="320" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="145.636">
-      <start pan="0" tilt="0" projection="4" fov="70"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270"/>
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
     </view>
-    <userdata datetime="01-03-2025 18:26" nodeid="node6" info="" comment="" tags="39" latitude="-41.390204" customnodeid="" title="Parcela 39" author="" source="" copyright="" description="" longitude="-73.197900"/>
+    <userdata nodeid="node6" comment="" customnodeid="" latitude="-41.390204" description="" source="" datetime="01-03-2025 18:26" author="" copyright="" info="" tags="39" title="Parcela 39" longitude="-73.197900"/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundcolor="0xffffff" wordwrap="1" border="1" bordercolor="0x000000" backgroundalpha="1" borderradius="1" textcolor="0x000000" width="180" background="1" textalpha="1" enabled="1" height="20" borderalpha="1"/>
-      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <label textalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" height="20" border="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" zoomout="0" zoomoutpause="1" blendcolor="0x000000" blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomin="0" enabled="1"/>
-    <autorotate speed="0.020" nodefilter="" noderandom="1" delay="1.00" returntohorizon="0.000" startloaded="0" useanimation="0" enabled="1" nodedelay="0.00"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextprojections="0" simulatemass="1" rubberband="0" invertwheel="0" contextfullscreen="1" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+    <transition zoomout="0" zoomoutpause="1" zoomfov="20" type="crossdissolve" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" zoomin="0"/>
+    <autorotate nodedelay="0.00" nodefilter="" speed="0.020" useanimation="0" enabled="1" returntohorizon="0.000" startloaded="0" delay="1.00" noderandom="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" hideabout="0" lockedwheel="0" contextfullscreen="1" lockedmouse="0" invertwheel="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" speedwheel="1" rubberband="0" dblclickfullscreen="0"/>
   </panorama>
   <masternode>
-    <userdata datetime="" nodeid="master" info="" comment="" tags="" latitude="" customnodeid="" title="Maullin" author="" source="" copyright="" description="" longitude=""/>
+    <userdata nodeid="master" comment="" customnodeid="" latitude="" description="" source="" datetime="" author="" copyright="" info="" tags="" title="Maullin" longitude=""/>
   </masternode>
 </tour>
